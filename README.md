@@ -1,0 +1,1 @@
+Implemented a hybrid Yee–Crank–Nicolson finite-difference scheme to numerically solve Maxwell’s equations in 1D and simplified 2D domains. Tested material interfaces, reflection coefficients, and second-order accuracy using energy conservation and validation benchmarks.
